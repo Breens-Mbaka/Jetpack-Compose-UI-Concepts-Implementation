@@ -1,7 +1,7 @@
 # Jetpack-Compose UI Concepts Implementation
 This repository contains all the UI concepts that learners will learn during the Youtube tutorials where they try to implement UI designs 🎨 using Jetpack Compose.
 
-## Task Manager 
+## Task Manager App UI Concept 
 This UI design concept was created by [Taras Migulko](https://dribbble.com/shots/18207094-Task-manager-app)
 
 <img src="images/taskmanager.png" width="250"/>
